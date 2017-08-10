@@ -1,0 +1,14 @@
+1.) Los getters sirven para conseguir o acceder al valor de una variable de instancia (@).
+2.) Si existe la clase Monster, Monster.class devuelve Class porque una clase tiene de clase la clase Class.
+3.) Las variables locales no son de instancia por lo que si le damos una en un metodo no podremos utilizarla en otro.
+4.) Ruby es case sensitive.
+5.) No se puede usar - en nombres de variables.
+6.) Las clases siempre son lo primero en el codigo.
+7.) Siempre es bueno comentar.
+8.) Los metodos tienen la clase de su retorno.
+9.)
+10.)
+11.)
+12.)
+13.)
+14.)
